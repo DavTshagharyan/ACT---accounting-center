@@ -46,6 +46,7 @@ ul{
 }
 .row{display: flex;
     flex-wrap: wrap;
+    margin-right: 0px;
     margin-left: 10px;
 
 }
